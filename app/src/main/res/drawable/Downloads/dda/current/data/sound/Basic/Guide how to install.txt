@@ -1,0 +1,25 @@
+=================================================================
+## For the 2ch soundpack:
+
+1) Enter into the CONTENTS folder, copy the musicset.json archive and the [music] folder.
+
+2) Place both, (the musicset.json archive and the [music] folder) into /data/sound/2ch sounpack
+
+NOTE) Overwrite if needed, CO.AG MusicPack just changes the musicset.json
+
+=================================================================
+## For the @´s soundpack:
+
+IMPORTANT DONT SKIP): Enter into the @'s soundpack folder and delete the musicset.json. 
+it's located into the [damalsksoundpack] folder and then, inside the [music] folder. 
+this is required for avoid conflicts.
+
+1) Enter into the CONTENTS folder, copy the musicset.json archive and the [music] folder.
+
+2) Place both, (the musicset.json archive and the [music] folder) into /data/sound/damalsksoundpack
+
+NOTE) Overwrite if needed, CO.AG MusicPack just changes the musicset.json
+
+=================================================================
+
+Stay safe out there!
